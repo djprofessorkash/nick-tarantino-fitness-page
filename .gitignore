@@ -1,0 +1,12 @@
+# Miscellaneous trash files/directories
+
+# Virtual environment configuration info
+venv/
+
+# Disused Django application files
+fitnesspage/db.sqlite3
+
+fitnesspage/boards/__pycache__
+fitnesspage/boards/migrations
+
+fitnesspage/fitnesspage/__pycache__
